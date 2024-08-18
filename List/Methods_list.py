@@ -7,7 +7,7 @@ print(lst)
 
 print("Adding element to the specific index")
 
-lst.insert(9,10)
+lst.insert(9,10)        #list.insert(index, element)
 
 print("Updated Element",lst)
 
